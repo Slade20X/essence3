@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://essenceagency.pl/",
+  "homepage": "https://Slade20X.github.io/essence3/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
